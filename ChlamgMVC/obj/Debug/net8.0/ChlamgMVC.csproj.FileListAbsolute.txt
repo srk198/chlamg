@@ -1,0 +1,270 @@
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.staticwebassets.runtime.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\EPPlus.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.AssemblyReference.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.ChlamgMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\scopedcss\bundle\ChlamgMVC.styles.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\scopedcss\projectbundle\ChlamgMVC.bundle.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.Up2Date
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\refint\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\obj\Debug\net8.0\ref\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.staticwebassets.runtime.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.AssemblyReference.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.ChlamgMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\bundle\ChlamgMVC.styles.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\projectbundle\ChlamgMVC.bundle.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.Up2Date
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\refint\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ref\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.staticwebassets.runtime.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.AssemblyReference.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.RazorAssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.ChlamgMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChlamgMVC.props
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\bundle\ChlamgMVC.styles.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\scopedcss\projectbundle\ChlamgMVC.bundle.scp.css
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.csproj.Up2Date
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\refint\ChlamgMVC.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ChlamgMVC.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\Processes\PmcTexas\ChlamgMVC - Copystable until loding proc\ChlamgMVC\obj\Debug\net8.0\ref\ChlamgMVC.dll

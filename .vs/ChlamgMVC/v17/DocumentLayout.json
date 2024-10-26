@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\models\\chlamg2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\models\\chlamg2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\models\\pmctexasdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\models\\pmctexasdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\views\\data\\viewdatafrompmctexastemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\views\\data\\viewdatafrompmctexastemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\views\\data\\viewdatafromtable.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\views\\data\\viewdatafromtable.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\processes\\pmctexas\\chlamgmvc - copystable until loding proc\\chlamgmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E34B19-19CA-4E52-86AE-49E392E3D523}|ChlamgMVC\\ChlamgMVC.csproj|solutionrelative:chlamgmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDataFromPmctexastemp.cshtml",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Views\\Data\\ViewDataFromPmctexastemp.cshtml",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Views\\Data\\ViewDataFromPmctexastemp.cshtml",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Views\\Data\\ViewDataFromPmctexastemp.cshtml",
+              "RelativeToolTip": "ChlamgMVC\\Views\\Data\\ViewDataFromPmctexastemp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:42:40.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chlamg2Model.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\Chlamg2Model.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Models\\Chlamg2Model.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\Chlamg2Model.cs",
+              "RelativeToolTip": "ChlamgMVC\\Models\\Chlamg2Model.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwDUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:13:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Controllers\\DataController.cs",
+              "RelativeToolTip": "ChlamgMVC\\Controllers\\DataController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:38:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\Class.cs",
+              "RelativeToolTip": "ChlamgMVC\\Models\\Class.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:49:12.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Program.cs",
+              "RelativeToolTip": "ChlamgMVC\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:21:29.098Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "33dc5dab-5520-4c93-a22c-97eded8f49e9",
+        "Display": 0,
+        "X": 514,
+        "Y": 50,
+        "Width": 1022,
+        "Height": 766,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pmcTexasDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\pmcTexasDataModel.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Models\\pmcTexasDataModel.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Models\\pmcTexasDataModel.cs",
+              "RelativeToolTip": "ChlamgMVC\\Models\\pmcTexasDataModel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:14:53.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a33cfd14-4d76-40d5-959e-87eb088391df",
+        "Display": 0,
+        "X": 514,
+        "Y": 50,
+        "Width": 1022,
+        "Height": 766,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDataFromTable.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Views\\Data\\ViewDataFromTable.cshtml.cs",
+              "RelativeDocumentMoniker": "ChlamgMVC\\Views\\Data\\ViewDataFromTable.cshtml.cs",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\Processes\\PmcTexas\\ChlamgMVC - Copystable until loding proc\\ChlamgMVC\\Views\\Data\\ViewDataFromTable.cshtml.cs",
+              "RelativeToolTip": "ChlamgMVC\\Views\\Data\\ViewDataFromTable.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:43:00.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

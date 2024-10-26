@@ -1,0 +1,60 @@
+﻿@model List<ChlamgMVC.Models.Chlamg2Model>
+
+@{
+    ViewData["Title"] = "Load Data";
+}
+
+<h2>Load Excel Data</h2>
+
+<form asp-action="LoadData" method="post">
+    <button type="submit">Load Data from Excel</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <div>
+        <strong>@TempData["Message"]</strong>
+    </div>
+}
+
+<h2>Claims Table</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Username</th>
+            <th>Worklist Status</th>
+            <th>Pend Effective</th>
+            <th>Pend Expires</th>
+            <th>Payer</th>
+            <th>Outstanding Amount</th>
+            <th>Date of Service</th>
+            <th>Claim Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.ClaimID</td>
+                    <td>@claim.Username</td>
+                    <td>@claim.WorklistStatus</td>
+                    <td>@claim.PendEffective?.ToShortDateString()</td>
+                    <td>@claim.PendExpires?.ToShortDateString()</td>
+                    <td>@claim.Payer</td>
+                    <td>@claim.OutstandingAmount?.ToString("C")</td>
+                    <td>@claim.DateOfService?.ToShortDateString()</td>
+                    <td>@claim.ClaimStatus</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9">No claims found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

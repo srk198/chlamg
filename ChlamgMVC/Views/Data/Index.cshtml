@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Load Data"; // Title of the page
+}
+
+<h2>Load Excel Data</h2>
+
+<!-- Form that submits to the LoadData action with file type selection -->
+<form asp-action="LoadData" method="post">
+    <label for="fileType">Select File Type:</label>
+    <select id="fileType" name="fileType">
+        <option value="allclaims">All Claims</option>
+        <option value="pmctexas">PMC Texas</option>
+    </select>
+
+    <button type="submit">Load Data from Excel</button> <!-- Button to trigger loading -->
+</form>
+
+<!-- Display success or error message -->
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info">
+        <strong>@ViewBag.Message</strong> <!-- Display the message -->
+    </div>
+}

@@ -1,0 +1,94 @@
+﻿@model List<ChlamgMVC.Models.PmctexastempModel>
+
+@{
+    ViewData["Title"] = "PMCTexas Data"; // Title of the page
+}
+
+<h2>PMCTexas Data</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Rendering Provider</th>
+            <th>Payer Name</th>
+            <th>Payer Address Line 1</th>
+            <th>Payer Address Line 2</th>
+            <th>Payer City</th>
+            <th>Payer State</th>
+            <th>Payer Zip Code</th>
+            <th>Payer Phone No</th>
+            <th>Patient Name</th>
+            <th>Patient Account No</th>
+            <th>Patient DOB</th>
+            <th>Payer Group No</th>
+            <th>Payer Subscriber No</th>
+            <th>Aging Days</th>
+            <th>Claim Date</th>
+            <th>Service Date</th>
+            <th>Latest Transfer Date</th>
+            <th>Claim First Submitted Date</th>
+            <th>Last Submission Date</th>
+            <th>Last Claim Status Change Date</th>
+            <th>Claim No</th>
+            <th>Charges</th>
+            <th>Claims Not Submitted</th>
+            <th>Current</th>
+            <th>31 to 60 Days</th>
+            <th>61 to 90 Days</th>
+            <th>91 to 120 Days</th>
+            <th>Over 120 Days</th>
+            <th>Balance</th>
+            <th>Created Date</th>
+            <th>Status</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var record in Model)
+            {
+                <tr>
+                    <td>@record.RenderingProvider</td>
+                    <td>@record.PayerName</td>
+                    <td>@record.PayerAddressLine1</td>
+                    <td>@record.PayerAddressLine2</td>
+                    <td>@record.PayerCity</td>
+                    <td>@record.PayerState</td>
+                    <td>@record.PayerZipCode</td>
+                    <td>@record.PayerPhoneNo</td>
+                    <td>@record.PatientName</td>
+                    <td>@record.PatientAcctNo</td>
+                    <td>@record.PatientDob?.ToShortDateString()</td>
+                    <td>@record.PayerGroupNo</td>
+                    <td>@record.PayerSubscriberNo</td>
+                    <td>@record.AgingDays</td>
+                    <td>@record.ClaimDate?.ToShortDateString()</td>
+                    <td>@record.ServiceDate?.ToShortDateString()</td>
+                    <td>@record.LatestTransferDate?.ToShortDateString()</td>
+                    <td>@record.ClaimFirstSubmittedDate?.ToShortDateString()</td>
+                    <td>@record.LastSubmissionDate?.ToShortDateString()</td>
+                    <td>@record.LastClaimStatusChangeDate?.ToShortDateString()</td>
+                    <td>@record.ClaimNo</td>
+                    <td>@record.Charges.ToString("C")</td>
+                    <td>@record.ClaimsNotSubmitted.ToString("C")</td>
+                    <td>@record.Current.ToString("C")</td>
+                    <td>@record.ThirtyOneToSixty.ToString("C")</td>
+                    <td>@record.SixtyOneToNinety.ToString("C")</td>
+                    <td>@record.NinetyOneToOneTwenty.ToString("C")</td>
+                    <td>@record.OverOneTwenty.ToString("C")</td>
+                    <td>@record.Balance.ToString("C")</td>
+                    <td>@record.CreatedDate?.ToShortDateString()</td>
+                    <td>@record.Status</td>
+                    <td>@record.Description</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="34">No records found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
